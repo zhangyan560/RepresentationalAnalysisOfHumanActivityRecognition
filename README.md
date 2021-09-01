@@ -10,3 +10,8 @@ pamap2: http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitori
 daphnet gait: http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait
 
 Once downloaded the datasets, please save the dataset in the data source file.
+
+The whole project is run on Colab with GPU acceleration
+Please notice the default data path is in the colab environment
+
+Once downloaded the data, used the code in demo.ipynb to train and test the model.
